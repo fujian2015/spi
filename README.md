@@ -1,0 +1,2 @@
+# spi
+spi是一个测试java的serverloader的demo,使用spi可以更好的通过spi机制去实现面向接口编程的理念，并找到正确的实现类进行实例化。
